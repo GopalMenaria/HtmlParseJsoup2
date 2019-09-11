@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shubh Loans</string>
+    <string name="about_url">"https://www.shubhloans.com/about.html"</string>
+    <string name="index_url">"https://www.shubhloans.com/index.html"</string>
+    <string name="contact_url">"https://www.shubhloans.com/contact.html"</string>
+    <string name="trigger_query_text">Get content</string>
+    <string name="internet_off_text">Internet is not available, Please, check your internet.</string>
+    <string name="internet_on_text">Internet is available.</string>
+    <string name="error_text">Error while fetching data.</string>
+
+</resources>
